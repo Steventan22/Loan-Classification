@@ -1,0 +1,21 @@
+Name = Steven Marcelino Tandiono
+NIM  = 00000059949
+
+Dataset: Loan Default Dataset
+Information
+
+1. loan_type   		= Type of Loan.
+2. loan_amount 		= The exact total amount of money you want to borrow.
+3. rate_of_interest 	= The interest rate charged tothe borrower.
+4. down_payment 		= Operational costs paid in advance as consideration for making a new loanu.
+5. term				= Loan repayment period.
+6. property_value		= A person's eligibility value obtained from the property owned.
+7. income				= A person's assets such as the amount of money, property, and others.
+8. credit_score		= Total score to determine whether or not it is feasible to get a loan.
+9. LTV				= Live-Time Value is a prognostication of the net profit.
+10. status			= Loan status, whether approved or declined.
+11. dept_to_income_ratio = Total income per month compared to debt per month.
+
+Data Reference:
+https://www.kaggle.com/datasets/yasserh/loan-default-dataset
+
